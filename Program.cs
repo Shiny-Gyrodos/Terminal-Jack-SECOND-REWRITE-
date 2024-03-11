@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Channels;
 
-namespace MyApp
+namespace BlackJack
 {
     internal class Program
     {
